@@ -13,7 +13,7 @@ import org.w3c.dom.*;
 
 public class Server {
 
-    private static final String FILE_PATH = "biblioteca.xml";
+    private static final String FILE_PATH = "XML/biblioteca.xml";
     private static List<String> bibliotecaXML = new ArrayList<>();
 
     private static DocumentBuilderFactory factory;
