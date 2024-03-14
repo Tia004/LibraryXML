@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><biblioteca>
+    <scaffale id="1">
+        <sezione num="1">
+            <libro id="1">
+                <ISBN>9788845292613</ISBN>
+                <titolo>Il Signore degli Anelli</titolo>
+                <autore>J.R.R. Tolkien</autore>
+                <anno_pubblicazione>1954</anno_pubblicazione>
+                <genere>Fantasy</genere>
+                <immagine_copertina>ilsignoredeglianelli.png</immagine_copertina>
+            </libro>
+            <libro id="2">
+                <ISBN>9781338596700</ISBN>
+                <titolo>Harry Potter e la Pietra Filosofale</titolo>
+                <autore>J.K. Rowling</autore>
+                <anno_pubblicazione>1997</anno_pubblicazione>
+                <genere>Fantasy</genere>
+                <immagine_copertina>hpelapietrafilosofale.png</immagine_copertina>
+            </libro>
+        </sezione>
+        <sezione num="2">
+            <libro id="1">
+                <ISBN>9780786965601</ISBN>
+                <titolo>Player's Handbook</titolo>
+                <autore>Wizard of the Coast</autore>
+                <anno_pubblicazione>1974</anno_pubblicazione>
+                <genere>Guida</genere>
+                <genere>Fantasy</genere>
+                <immagine_copertina>playershandbook.png</immagine_copertina>
+            </libro>
+            <libro id="2">
+                <ISBN>9788891808561</ISBN>
+                <titolo>Io, me e me stesso</titolo>
+                <autore>CiccioGamer89</autore>
+                <anno_pubblicazione>2017</anno_pubblicazione>
+                <genere>Biografia</genere>
+                <genere>Autobiografico</genere>
+                <immagine_copertina>iomeemestesso.png</immagine_copertina>
+            </libro>
+        </sezione>
+    </scaffale>
+    <scaffale id="2">
+        <sezione num="1">
+            <libro id="1">
+                <ISBN>9788804610311</ISBN>
+                <titolo>Cronache del ghiaccio e del fuoco</titolo>
+                <autore>George R.R. Martin</autore>
+                <anno_pubblicazione>1996</anno_pubblicazione>
+                <genere>Fantasy</genere>
+                <genere>Avventura</genere>
+                <immagine_copertina>cronachedelghiaccioedelfuoco.png</immagine_copertina>
+            </libro>
+            <libro id="2">
+                <ISBN>9788804668237</ISBN>
+                <titolo>1984</titolo>
+                <autore>George Orwell</autore>
+                <anno_pubblicazione>1949</anno_pubblicazione>
+                <genere>Distopico</genere>
+                <genere>Fantapolitico</genere>
+                <immagine_copertina>1984.png</immagine_copertina>
+            </libro>
+        </sezione>
+    </scaffale>
+</biblioteca>
